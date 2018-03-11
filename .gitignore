@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+*.iml
+.idea/
+/.idea/workspace.xml
+/.idea/libraries
+
+# Gradle
+.gradle
+/build
+
+# Android
+/local.properties
+
+# OSX
+.DS_Store

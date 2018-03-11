@@ -1,0 +1,18 @@
+<resources>
+
+  <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+  </style>
+
+  <style name="AppTheme.PrimaryButton" parent="Widget.AppCompat.Button.Colored">
+    <item name="android:colorButtonNormal">@color/jade</item>
+    <item name="android:textColor">@color/white</item>
+    <item name="android:textSize">24sp</item>
+  </style>
+
+  <style name="AppTheme.SecondaryButton" parent="Widget.AppCompat.Button.Colored">
+    <item name="android:colorButtonNormal">@color/ruby</item>
+    <item name="android:textColor">@color/white</item>
+    <item name="android:textSize">24sp</item>
+  </style>
+
+</resources>

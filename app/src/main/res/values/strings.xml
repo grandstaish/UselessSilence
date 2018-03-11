@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Useless Silence</string>
+  <string name="app_description">Wasting battery for no reason</string>
+  <string name="start">Start</string>
+  <string name="stop">Stop</string>
+  <string name="notification_channel_main_title">Main</string>
+</resources>
